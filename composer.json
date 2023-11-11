@@ -1,0 +1,14 @@
+{
+    "name": "penphp/framework",
+    "description": "The PenPHP Framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Penphp\\Framework\\": "src/",
+            "Pen\\": "src/Pen/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
